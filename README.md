@@ -2,4 +2,4 @@
 
 There's nothing to download here. Get BattleTech: Unofficial Community Update (UCU) from https://github.com/InternetDadCo/BattleTech-UCU
 
-The installer fetches the files in this repository by itself.
+The installer fetches the files in this repository by itself. They won't do anybody any good without the installer.
